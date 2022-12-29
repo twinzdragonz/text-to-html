@@ -4,7 +4,7 @@ We will using different branch to do the development based on case . We will hav
 
 main - strictly used for release only .
 
-develop - create from master , has all completed stable feat prepared for next release .
+develop - create from main , has all completed stable feat prepared for next release .
 
 feature - create from a new feature from develop branch
 
