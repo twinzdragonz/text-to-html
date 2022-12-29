@@ -2,7 +2,7 @@ Git Workflow
 
 We will using different branch to do the development based on case . We will have 2 parallel long-running branches :
 
-master - strictly used for release only .
+main - strictly used for release only .
 
 develop - create from master , has all completed stable feat prepared for next release .
 
